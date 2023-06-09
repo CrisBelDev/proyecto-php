@@ -1,0 +1,14 @@
+.card-header,.card-footer{
+	background: #3FA2F9;
+	color: white;
+
+}
+.thead-default th{
+	background: #0BA190;
+	color: #f2f2f2;
+}
+
+.table-hover tbody tr:hover {
+  background-color: rgba(91, 192, 222, 0.5);
+  
+}
